@@ -16,7 +16,7 @@ I am a passionate IT Student, driven by a curiosity for technology and a love fo
   -  Building server-side applications with Laravel and/or Node.js.
   - Diving into MySql and MongoDB for efficient and scalable database management.
 
-##👯 I’m looking for an apprenticeship to expand my knowledge
+## 🌱 I'm looking for an apprenticeship to expand my knowledge
 
 ## 📬 Get in Touch
 

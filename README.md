@@ -3,6 +3,7 @@
 I am a passionate IT Student, driven by a curiosity and a love for technology.
 
 ![miew-miew's Stats](https://github-readme-stats.vercel.app/api?username=miew-miew&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miew-miew&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 

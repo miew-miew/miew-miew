@@ -2,18 +2,9 @@
 
 I am a passionate IT Student, driven by a curiosity and a love for technology.
 
-<table>
-  <tr>
-    <td align="center" valign="middle" style="border-radius: 10px; background-color: #333; padding: 20px; width: 50%">
-      <h2 style="color: #fff; margin-top: 0">Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=miew-miew&show_icons=true&theme=dracula&count_private=true" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2)" />
-    </td>
-    <td align="center" valign="middle" style="border-radius: 10px; background-color: #333; padding: 20px; width: 50%">
-      <h2 style="color: #fff; margin-top: 0">Languages</h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miew-miew&layout=compact&langs_count=8&theme=dracula" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2)" />
-    </td>
-  </tr>
-</table>
+| **Stats** | **Languages** |
+| --- | --- |
+| ![miew-miew's stats](https://github-readme-stats.vercel.app/api?username=miew-miew&show_icons=true&theme=dracula&count_private=true) | ![miew-miew's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miew-miew&layout=compact&langs_count=8&theme=dracula) |
 
 ## 🚀 About Me
 

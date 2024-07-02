@@ -4,7 +4,7 @@ I am a passionate IT Student, driven by a curiosity and a love for technology.
 
 | **Stats** | **Languages** |
 | --- | --- |
-| ![miew-miew's stats](https://github-readme-stats.vercel.app/api?username=miew-miew&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![miew-miew's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miew-miew&layout=compact&langs_count=8&theme=dracula) |
+| ![miew-miew's stats](https://github-readme-stats.vercel.app/api?username=miew-miew&show_icons=true&theme=dracula&count_private=true) | ![miew-miew's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miew-miew&layout=compact&langs_count=8&theme=dracula) |
 
 ## 🚀 About Me
 

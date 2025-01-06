@@ -7,6 +7,7 @@
 <br clear="both" />
 
 <h2>🎀 Get to Know Me 🎀</h2>
+
 💻 **Tech Enthusiast:** I enjoy coding and discovering new technologies.  
 🎯 **Curious Learner:** I'm always eager to expand my knowledge and improve my skills. 
 🐱 **Cat Lover:** Cats are my spirit animals!  

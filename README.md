@@ -11,8 +11,8 @@
 💻 **Tech Enthusiast:** I enjoy coding and discovering new technologies.  
 🎯 **Curious Learner:** I'm always eager to expand my knowledge and improve my skills. 
 🐱 **Cat Lover:** Cats are my spirit animals!  
-📖 **Bookworm:** Reading transports me to magical worlds.  
-🎨 **Art Enthusiast:** I enjoy sketching sometimes. 
+🌙 **Dreamy Reader**: Books take me on magical adventures. 
+🎨 **Occasional Sketcher:** I enjoy sketching sometimes. 
 
 
 <h2>🌟 Magic Tools I Use ✨</h2>

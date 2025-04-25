@@ -2,7 +2,6 @@
   <img align="left" height="150" src="https://i.pinimg.com/736x/14/6a/02/146a022ad73af44132e194d536511e30.jpg" alt="Profile Icon" />
 <br/>
   <h3>Hellooo, I'm Famenontsoa Ny Aina! ✨</h3>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=miew-miew.miew-miew&left_color=black&right_color=brown&left_text=%E2%9C%A8Curious%20souls%20who've%20stopped%20by%20:%20" alt="Visitor Badge" />
 </div>
 <br clear="both" />
 

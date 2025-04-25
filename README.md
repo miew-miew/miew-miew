@@ -40,7 +40,7 @@
 <h2>🌸 Here's How I'm Doing 🌟</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miew-miew&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=en&hide_border=true&order=1" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miew-miew&show_icons=true&include_all_commits=true&theme=radical" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miew-miew&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="170" alt="Top Languages" />
 </div>
 

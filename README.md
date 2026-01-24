@@ -1,7 +1,5 @@
 <div align="center">
-  <img align="left" height="150" src="https://i.pinimg.com/736x/14/6a/02/146a022ad73af44132e194d536511e30.jpg" alt="Profile Icon" />
-<br/>
-  <h3>Hellooo, I'm Famenontsoa Ny Aina! ✨</h3>
+  <h3>Hellooo, I'm Balloulouu! 🦦</h3>
 </div>
 <br clear="both" />
 
@@ -14,10 +12,6 @@
 <h2>🌟 Magic Tools I Use ✨</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
@@ -49,8 +43,4 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/ny-aina-razanakoto/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="38" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/prettyy_lul/">
-    <img src="https://i.pinimg.com/736x/14/6a/02/146a022ad73af44132e194d536511e30.jpg" width="38" height="38" alt="Instagram"/>
-  </a>
 </div>
